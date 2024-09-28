@@ -1,2 +1,2 @@
-# high-stakes-manual
-21919A VEX manual control program
+# hs-template
+Template project for High Stakes VEX competition by SystemError (21919A).
